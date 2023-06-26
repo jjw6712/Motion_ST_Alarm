@@ -7,11 +7,6 @@ https://github.com/jjw6712/Motion_ST_Alarm/assets/91660287/9b9d1ead-da8b-4797-88
 
 https://github.com/jjw6712/Motion_ST_Alarm/assets/91660287/e78c3ea3-445d-4012-906e-ac136539a9a2
 
-
-https://github.com/jjw6712/Motion_ST_Alarm/assets/91660287/abf48123-2f43-4c7a-ba4e-eb281c70ffc1
-
-
-
 ![image](https://github.com/jjw6712/Motion_ST_Alarm/assets/91660287/981569f7-723b-4ea5-b727-2b31ad7c4d9c)
 ![image](https://github.com/jjw6712/Motion_ST_Alarm/assets/91660287/6390cbba-21d4-44d6-873b-1452452837d3)
 ![image](https://github.com/jjw6712/Motion_ST_Alarm/assets/91660287/6207eb96-40d7-4f98-be46-2bfc95112ee6)
