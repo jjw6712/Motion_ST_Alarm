@@ -1,6 +1,7 @@
 # 모션 인식 기반의 스트레칭 알람시계 앱
-
-
+Copyright (c) [2023] [경운대학교 소프트웨어학부 정진우]
+All Rights Reserved
+이 코드는 복사, 수정, 재배포가 금지되어 있습니다.
 
 https://github.com/jjw6712/Motion_ST_Alarm/assets/91660287/9b9d1ead-da8b-4797-8805-d31732ce6f3b
 
